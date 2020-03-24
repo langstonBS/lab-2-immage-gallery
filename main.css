@@ -1,19 +1,18 @@
 
 h1 {
-    color: gold;
+    text-align: center;
+    color: slategrey;
 }
 
 figure{
     height: 300px;
     width: 300px;
-    background-color: violet;
+    background-color: rgba(221, 116, 221, 0.349);
     border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    
-
 }
 
 figcaption {
@@ -30,7 +29,8 @@ img {
 }
 
 ul {
-    
+    text-align: center;
+
     list-style-type: none;
 }
 
