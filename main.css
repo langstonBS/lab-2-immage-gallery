@@ -1,0 +1,40 @@
+
+h1 {
+    color: gold;
+}
+
+figure{
+    height: 300px;
+    width: 300px;
+    background-color: violet;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+figcaption {
+    text-align: center;
+    
+}
+
+img {
+
+    height: 80%;
+    width: 80%;
+    border-radius: 5px;
+
+}
+
+ul {
+    
+    list-style-type: none;
+}
+
+article {
+    float: left;
+}
+
